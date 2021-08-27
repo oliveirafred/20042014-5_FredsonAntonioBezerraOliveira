@@ -12,8 +12,8 @@
     <!-- location - page introducing -->
     <div class="container p-5 mb-4 bg-light rounded-3">
         <div class="container-fluid px-5 py-5">
-            <h1 class="display-5 fw-bold">Where find us</h1>
-            <p class="col-md-8 fs-4">We have several outlets so you can be close to us and don't run out of your candies</p>
+            <h1 class="display-5 fw-bold">Encontre- nos!</h1>
+            <p class="col-md-8 fs-4">Veja abaixo o mapa para localizar nosso ponto de venda!</p>
         </div>
     </div>
 
