@@ -37,7 +37,7 @@
                 <strong>Ponto de Venda</strong><br>
                 Centro, 471 - Setor Mercado<br>
                 Augustinópolis - TO<br>
-                <abbr title="Phone"></abbr> (63) 99239-2751
+                <abbr title="Celular"></abbr> (63) 99239-2751
             </address>
         </div>
     </div>
