@@ -1,5 +1,5 @@
 <head>
-    <title>Tia Joana's | Location</title>
+    <title>Candy Lux | Localização</title>
     <style>
         .drop-shadow {
             box-shadow: 0 5px 30px #ccc;
