@@ -25,28 +25,19 @@
             
         <div class="text-light">
             <div class="me-5">
-                <h2>Our Outlets</h2>
+                <h2>Local</h2>
                 <p>
-                    Mussum Ipsum, cacilds vidis litro abertis. Diuretics paradis num copo é motivis de denguis. Copo furadis é disculpa de bebadis, arcu quam euismod magna. Nullam volutpat risus nec leo commodo, ut interdum diam laoreet. 
+                    Nós nos encontramos na cidade <br/>
+                    Augustinópolis.<br/>
+                    Venha logo conhecer as <br/>
+                    delícias da CandyLux!
                 </p>
             </div>
             <address class="mt-5">
-                <strong>Store 1</strong><br>
-                Barão de Mauá, 814 - Vila Virgínia<br>
-                Ribeirão Preto - SP<br>
-                <abbr title="Phone">P:</abbr> (16) 99559-8633
-            </address>
-            <address class="mt-3">
-                <strong>Store 2</strong><br>
-                Ceará, 112 - Jardim Santa Teresinha<br>
-                Tambaú - SP<br>
-                <abbr title="Phone">P:</abbr> (19) 3542-0012
-            </address>
-            <address class="mt-3">
-                <strong>Store 3</strong><br>
-                João Paschoal Pizzi, 556 - J L Vicente<br>
-                Brodowski - SP<br>
-                <abbr title="Phone">P:</abbr> (16) 2456-7890
+                <strong>Ponto de Venda</strong><br>
+                Centro, 471 - Setor Mercado<br>
+                Augustinópolis - TO<br>
+                <abbr title="Phone"></abbr> (63) 99239-2751
             </address>
         </div>
     </div>
